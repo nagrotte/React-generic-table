@@ -1,0 +1,80 @@
+[
+    {
+      "activity": "Logged in",
+      "status": "Success",
+      "created": "2022-01-01T12:00:00Z",
+      "request": {
+        "k12School": {
+          "name": "Broadway K-12 School",
+          "useDetails": {
+            "totalGrossFloorArea": {
+              "units": "Square Feet",
+              "currentAsOf": "2010-08-13",
+              "temporary": "false",
+              "value": "333"
+            },
+            "openOnWeekends": {
+              "currentAsOf": "2010-08-13",
+              "temporary": "false",
+              "value": "Yes"
+            },
+            "percentCooled": {
+              "currentAsOf": "2010-08-13",
+              "temporary": "false",
+              "value": "0"
+            },
+            "percentHeated": {
+              "currentAsOf": "2010-08-13",
+              "temporary": "false",
+              "value": "0"
+            },
+            "numberOfComputers": {
+              "currentAsOf": "2010-08-13",
+              "temporary": "false",
+              "value": "3"
+            },
+            "cookingFacilities": {
+              "currentAsOf": "2010-08-13",
+              "temporary": "false",
+              "value": "Yes"
+            },
+            "isHighSchool": {
+              "currentAsOf": "2010-08-13",
+              "temporary": "false",
+              "value": "Yes"
+            },
+            "monthsInUse": {
+              "currentAsOf": "2010-08-13",
+              "temporary": "false",
+              "value": "8"
+            },
+            "schoolDistrict": {
+              "currentAsOf": "2010-08-13",
+              "temporary": "false",
+              "value": "String"
+            }
+          }
+        }
+      }
+      ,
+      "request_id": 123456,
+      "event_id": 789012
+    },
+    {
+      "activity": "Uploaded file",
+      "status": "Success",
+      "created": "2022-01-02T12:00:00Z",
+      "request": {"property1":"test","property2":1},
+      "request_id": 234567,
+      "event_id": 890123
+    },
+    {
+        "activity": "Uploaded file",
+        "status": "Success",
+        "created": "2022-01-02T12:00:00Z",
+        "request": {"property1":"test","property2":1},
+        "request_id": 234567,
+        "event_id": 890123
+      }  
+    ]
+  
